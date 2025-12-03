@@ -1,13 +1,8 @@
+.venv
 .assist
-ollama_chat_data
-ollama_intent_data
-openwake_data
-piper_data
-whisper_data
-searxng_data
+0ld
 **/__pycache__/
 **/.pytest_cache/
-controller/audio_tests
 **.json
 .cache
 **_db
